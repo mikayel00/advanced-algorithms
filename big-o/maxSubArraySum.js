@@ -1,4 +1,4 @@
-// function maxSubarraySum(arr, num) {         //////  O(n^2)
+// function maxSubArraySum(arr, num) {         //////  O(n^2)
 //     if (num > arr.length) {
 //         return null;
 //     }
@@ -15,7 +15,7 @@
 //     return max;
 // }
 
-function maxSubarraySum(arr, num) {     ///////     O(n)
+function maxSubArraySum(arr, num) {     ///////     O(n)
     if (num > arr.length) {
         return null;
     }
@@ -33,4 +33,4 @@ function maxSubarraySum(arr, num) {     ///////     O(n)
     return maxSum;
 }
 
-maxSubarraySum([2,6,9,2,9,1,5,3,4,6,7,8,4,3,2,5,6,8,8,5,4,3,2,1,4,5,6,7], 7);
+maxSubArraySum([2,6,9,2,9,1,5,3,4,6,7,8,4,3,2,5,6,8,8,5,4,3,2,1,4,5,6,7], 3);
