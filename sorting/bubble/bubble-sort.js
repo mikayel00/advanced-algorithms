@@ -3,6 +3,9 @@
  *
  * Comparing two nearest element and bubble the biggest value to the end
  *
+ * @Pros good for nearly sorted
+ * @Cons slow, because it's swiping every 2 nearest elements
+ *
  * `https://visualgo.net/en/sorting`
  */
 
