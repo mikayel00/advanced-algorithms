@@ -1,5 +1,10 @@
-// Comparing two nearest element and bubble the biggest value to the end
-// https://visualgo.net/en/sorting
+/**
+ * BUBBLE SORT
+ *
+ * Comparing two nearest element and bubble the biggest value to the end
+ *
+ * `https://visualgo.net/en/sorting`
+ */
 
 function bubbleSort(arr) {
     for (let i = arr.length; i > 0; --i) {
