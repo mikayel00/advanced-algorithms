@@ -6,6 +6,9 @@
  * @Pros good for nearly sorted
  * @Cons slow, because it's swiping every 2 nearest elements
  *
+ * @Time O(n^2)
+ * @Space O(1)
+ *
  * `https://visualgo.net/en/sorting`
  */
 

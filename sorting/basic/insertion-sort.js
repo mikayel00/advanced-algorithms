@@ -6,6 +6,9 @@
  * @Pros good for nearly sorted
  * @Cons
  *
+ * @Time O(n^2)
+ * @Space O(1)
+ *
  * `https://visualgo.net/en/sorting`
  */
 

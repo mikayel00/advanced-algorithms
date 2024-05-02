@@ -5,6 +5,9 @@
  *
  * @Cons bad for nearly sorted
  *
+ * @Time O(n^2)
+ * @Space O(1)
+ *
  * `https://visualgo.net/en/sorting`
  */
 
