@@ -34,7 +34,6 @@ function merge(first, second) {
         arr.push(second[right]);
         ++right;
     }
-    console.log(arr);
     return arr;
 }
 
